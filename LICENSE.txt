@@ -1,1 +1,2 @@
-# THis is the License file
+# This is the License file
+*Apache Spark 3.0*
